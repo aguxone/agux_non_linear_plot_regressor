@@ -13,9 +13,9 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
 <!-- <video  style="display:block; width:10%; height:auto;" autoplay controls loop="loop">
        <source src=https://user-images.githubusercontent.com/98858551/174418629-481619d3-27ed-48c0-b952-05b6239417b3.mp4 type="video/mp4" />
 </video> -->
-<div style="width:100px ; height:100px>
+<!-- <div style="width:100px ; height:100px>
        <video src='https://user-images.githubusercontent.com/98858551/174418629-481619d3-27ed-48c0-b952-05b6239417b3.mp4'></video>
-<div/>
+<div/> -->
 
 ## Libraries used
 - Matplotlib
