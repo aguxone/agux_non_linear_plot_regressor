@@ -6,7 +6,7 @@ Tired of slow and paid heavy weight statistics apps for your simple regression t
 It is made with python libraries, is fast,  has intuitive interface and provides many metrics (R2, RMSE, Chi2) and parameters values standard deviations.
 
 <!-- ![screen-gif](./prueba_rando_creator.gif) -->
-<img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="40%" height="40%">
+<img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="60%" height="40%">
 
 ## Libraries used
 - Matplotlib
