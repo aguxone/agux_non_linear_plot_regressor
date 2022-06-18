@@ -1,0 +1,13 @@
+oscilador amortiguado:
+a=1
+b=1
+c=1
+d=15
+e=2.4
+
+gaussian:
+b=2
+
+seno:
+a=4
+b=9
