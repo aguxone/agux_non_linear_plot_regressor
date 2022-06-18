@@ -4,9 +4,10 @@
 ## Description
 Tired of slow and paid heavy weight statistics apps for your simple regression tasks? Agux's Non Linear Plot Regressor is your solution for 1 variable non linear regression. You can use one of the many preset fitting curves or easily define your very own to suit your needs.
 It is made with python libraries, is fast,  has intuitive interface and provides many metrics (R2, RMSE, Chi2) and parameters values standard deviations.
+It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method (Trusted Region).
 <!-- ![screen-gif](./prueba_rando_creator.gif) -->
 <!-- <img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="60%" height="40%"> -->
-<img src="https://github.com/aguxone/agux_non_linear_plot_regressor/blob/gif-storage-branch/X4video_red.mp4?raw=true" alt="agux_nlpr_mp4" width="60%" height="40%">
+<img src="https://github.com/aguxone/agux_non_linear_plot_regressor/blob/gif-storage-branch/756x490.gif?raw=true" alt="agux_nlpr_gif" width="60%" height="40%">
 <!-- <video ;src='https://user-images.githubusercontent.com/98858551/174418629-481619d3-27ed-48c0-b952-05b6239417b3.mp4'; width="100"; height="100"></video> -->
 <!-- https://user-images.githubusercontent.com/98858551/174418629-481619d3-27ed-48c0-b952-05b6239417b3.mp4 -->
 <!-- <video  style="display:block; width:10%; height:auto;" autoplay controls loop="loop">
