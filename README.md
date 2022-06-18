@@ -24,7 +24,7 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
 - WxPython
 
 ## Opening the app:
-- If using the source, just run the .py file (previously having installed the necessary libraries)
+- If using the source code, just run the .py file (previously having installed the necessary libraries)
 - If using a windows standalone release, just open the .exe file , it was compiled with pyinstaller and it needs to load the python interpreter + libraries so this might take from 5secs to 2 min depending on your computer (be patient).
 
 ## Usage:
