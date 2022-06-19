@@ -4,7 +4,7 @@
 ## Description
 Tired of slow and paid heavy weight statistics apps for your simple regression tasks? Agux's Non Linear Plot Regressor is your solution for 1 variable non linear regression. You can use one of the many pre-loaded fitting functions or easily define your very own to suit your needs.
 It is made with python libraries, is fast,  has intuitive interface, provides many metrics (R2, RMSE, Chi2) and parameter values standard deviations.
-It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method (Trusted Region). App commes with 4 different real life datasets you can test it
+It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method (Trusted Region). App commes with 4 different real life datasets that you can test.
 <!-- ![screen-gif](./prueba_rando_creator.gif) -->
 <!-- <img src="https://github.com/aguxone/agux_random_file_creator/blob/gif_storage/prueba_rando_creator.gif?raw=true" alt="agxu_rfc_gif" width="60%" height="40%"> -->
 <img src="https://github.com/aguxone/agux_non_linear_plot_regressor/blob/gif-storage-branch/756x490.gif?raw=true" alt="agux_nlpr_gif" width="70%" height="40%">
