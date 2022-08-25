@@ -37,15 +37,15 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
 - Itearative calculations for minimizing least squares are automated by scipy library (scipy.optimize.curve_fit) using Least Squares and TRF method. You can learn more in https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 - Chi2 is calculated by using the following formula:
 
-     $\chi^2 = \sum_{i=1}^{n}  ( \frac{y_i - \hat{y}}{\sigma_i})^2$
+     $$ \chi^2 = \sum_{i=1}^{n}  ( \frac{y_i - \hat{y}}{\sigma_i})^2 $$
      
 Where y_i are the data points, yhat is the predicted y point by the curve, and  sigma_i is the error estimate of the y_i value.
 Degrees of freedom which constitute the expected value of the Chi2 distribution are calculated as DF = number of data point - number of parameters of the fitted curve .
 
 - RMSE is calculated by using the following formula:
 
-     $ RMSE = \sqrt{ \frac{1}{n} \sum{(y_i - \hat{y})^2}} $
-     
+     $$ RMSE = \sqrt{ \frac{1}{n} \sum{(y_i - \hat{y})^2}} $$
+
 Where y_i are the data points, yhat is the predicted y point by the curve, and  sigma_i is the error estimate of the y_i value.
 
 ## Example datasets:
