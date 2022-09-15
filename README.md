@@ -55,3 +55,7 @@ Non linear regression is a tiny art where you need to know a bit about your func
 - Sine: a=4 , b=9
 - glutation : defaults are ok for exponential curve
 
+## About app:
+- Made with love for nerds by Agustín Alejo García, degree/master of science in Chemistry.
+- University of Buenos Aires (Argentina), Faculty of Exact and Natural Sciences.
+
