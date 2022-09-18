@@ -42,7 +42,7 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
      $$ \chi^2 = \sum_{i=1}^{n}  ( \frac{y_i - \hat{y}}{\sigma_i})^2 $$
      
 Where y_i are the data points, y_hat is the predicted y point by the curve, and  sigma_i is the error estimate of the y_i value.
-Degrees of freedom which constitute the expected value of the Chi2 distribution are calculated as DF = number of data point - number of parameters of the fitted curve .
+Degrees of freedom are calculated as DF = number of data point - number of parameters of the fitted curve. The "Reduced Chi2" value shown in the app is the Chi2 statistic divided by DF. Have in mind that Chi2 distribution's expected value (or mean) is exactly the DF value which is useful for "goodness of fit" conclusions.
 
 - RMSE is calculated by using the following formula:
 
