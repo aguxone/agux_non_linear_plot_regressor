@@ -65,6 +65,7 @@ From 1.0.0 to 1.1.1:
 ## About the app:
 - Made with love for nerds by Agustín Alejo García, degree/master of science in Chemistry.
 - From University of Buenos Aires (Argentina), Faculty of Exact and Natural Sciences.
+- Contact: aguxgarcia@hotmail.com
 - This app is open source and free for personal or educational use.
-But it's also free to say thanks and reference the autor if you use it or find it useful for any use case.
+But it's also free to say thanks and/or reference the autor if you use it or find it useful for any use case.
 
