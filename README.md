@@ -24,9 +24,10 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
 - Scipy
 - WxPython
 
-## Opening the app:
+## Downloading and Opening the app:
+- You can download the source code by clicking on the green "Code" button on the upper section of this web page, or download an executable file for Windows in the <a href="https://github.com/aguxone/agux_non_linear_plot_regressor/releases">Releases</a> page at your right (it's inside the zip file).
 - If using the source code, just run the .py file with a python interpreter (previously having installed python and the necessary libraries)
-- If using a windows standalone release, just open the .exe file , it was compiled with pyinstaller and it needs to load the python interpreter + libraries so this might take from 5secs to 2 min depending on your computer (be patient).
+- If using a Windows standalone release, just open the .exe file , it has no dependencies at all (except for the included image files). The app was compiled with pyinstaller, so the app needs to load the python interpreter + libraries when opening; this process might take from 5 secs to 2 min depending on your computer (be patient if you think is not loading, but once loaded the app is quite responsive).
 
 ## Usage:
 - Opening a file: Usen to open button to choose a .csv or .txt file, and choose the delimiter below. File must be a comma separated file (using comma or other delimiter) and must have 2 or 4 columns. First column is for the independent variable (x) , second column for the dependent variable (y), and third and fourth columns are for x and y error estimates respectively (one error per data instance).
