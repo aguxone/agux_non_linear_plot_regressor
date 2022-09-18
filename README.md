@@ -55,7 +55,16 @@ Non linear regression is a tiny art where you need to know a bit about your func
 - Sine: a=4 , b=9
 - glutation : defaults are ok for exponential curve
 
-## About app:
+## Changelog:
+From 1.0.0 to 1.1.1:
+- Support for high dpi displays on windows
+- Added constant error option in adition to % error
+- Changed size position relative to display size
+- Added "About this app" button and dialog.
+
+## About the app:
 - Made with love for nerds by Agustín Alejo García, degree/master of science in Chemistry.
-- University of Buenos Aires (Argentina), Faculty of Exact and Natural Sciences.
+- From University of Buenos Aires (Argentina), Faculty of Exact and Natural Sciences.
+- This app is open source and free for personal or educational use.
+But it's also free to say thanks and reference the autor if you use it or find it useful for any use case.
 
