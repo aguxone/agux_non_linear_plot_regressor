@@ -17,14 +17,15 @@ It uses scipy.optimize.curve_fit to make the iterative calculation by TRF method
        <video src='https://user-images.githubusercontent.com/98858551/174418629-481619d3-27ed-48c0-b952-05b6239417b3.mp4'></video>
 <div/> -->
 
-## Libraries used
+## Languages / Libraries used
+- Python
 - Matplotlib
 - Numpy
 - Scipy
 - WxPython
 
 ## Opening the app:
-- If using the source code, just run the .py file (previously having installed the necessary libraries)
+- If using the source code, just run the .py file with a python interpreter (previously having installed python and the necessary libraries)
 - If using a windows standalone release, just open the .exe file , it was compiled with pyinstaller and it needs to load the python interpreter + libraries so this might take from 5secs to 2 min depending on your computer (be patient).
 
 ## Usage:
@@ -64,8 +65,8 @@ From 1.0.0 to 1.1.0:
 - Added "About this app" button and dialog.
 
 ## About the app:
-- Made with love for nerds by Agustín Alejo García, degree/master of science in Chemistry.
+- Made with love for nerds by Agustín Alejo García, degree/master of science in Chemistry (2022)
 - From University of Buenos Aires (Argentina), Faculty of Exact and Natural Sciences.
 - Contact: aguxgarcia@hotmail.com
 - This app is open source and free for personal or educational use.
-But it's also free to say thanks and/or reference the autor if you use it or find it useful for any use case.
+But it's also free to say thanks and/or reference the author if you use it or find it useful for any use case.
