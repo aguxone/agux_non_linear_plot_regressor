@@ -47,7 +47,7 @@ Degrees of freedom are calculated as DF = number of data point - number of param
 
 - RMSE is calculated by using the following formula:
 
-     $$ RMSE = \sqrt{ \frac{1}{n} \sum{(y_i - \hat{y})^2}} $$
+     $$RMSE = \sqrt{ \frac{1}{n} \sum{(y_i - \hat{y})^2}}$$
 
 Where y_i are the data points, yhat is the predicted y point by the curve, and  sigma_i is the error estimate of the y_i value.
 
